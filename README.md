@@ -7,8 +7,6 @@
 
 - 🤝 If you're looking for a Freelance [Malt profile](https://www.malt.fr/profile/lucassouleyrasse)
 
-- 💬 Ask me about **React, Meteor, Node.js**
-
 - 📫 How to reach me **lucas.souleyrasse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
