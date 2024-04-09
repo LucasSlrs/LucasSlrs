@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasslrs&label=Profile%20views&color=0e75b6&style=flat" alt="lucasslrs" /> </p>
 
-- 🌱 I’m currently learning **NestJs and React Native**
+- 🌱 I’m currently personal project (SaaS) With **Nest & React**
 
 - 🤝 If you're looking for a Freelance [Malt profile](https://www.malt.fr/profile/lucassouleyrasse)
 
